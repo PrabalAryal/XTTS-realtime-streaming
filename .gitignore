@@ -2,5 +2,5 @@ xtts_pretrained
 model/new_audio_outputs
 model/raw_outputs
 model/__pycache__
-model/infer.py
-model/main.py
+/home/rajan/Prabal_procit_works/XTTS streaming/model/main.py
+/home/rajan/Prabal_procit_works/XTTS streaming/model/infer.py
